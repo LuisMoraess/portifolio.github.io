@@ -1,0 +1,68 @@
+{
+  "name": "Luis Gustavo Moraes Cantarelli",
+  "photo": "https://avatars.githubusercontent.com/u/162765438?v=4",
+  "job": "Junior Devloper",
+  "location": "Cascavel-PR",
+  "phone": "(45) 99979-7691",
+  "email": "luisgustavomoraes74@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "phyton",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "js",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "css",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex",
+      "url": "https://github.com/LuisMoraess/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Criação de uma página de portfolio",
+      "url": "https://github.com/LuisMoraess/Portifolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Vendedor Externo / PPA Cascavel",
+      "period": "2022 - até o momento",
+      "description": "Durante minha experiência em vendas externas de produtos para automação, desenvolvi habilidades essenciais em negociação, comunicação e identificação de oportunidades de negócios. Minha paixão por tecnologia foi fundamental para entender e atender às necessidades dos clientes, resultando em relacionamentos sólidos e sucesso nas vendas."
+    },
+    {
+      "name": "Aprendiz administrativo",
+      "period": "2018 - 2020",
+      "description": "Como menor aprendiz administrativo, aprendi muito sobre as rotinas de uma empresa. Atendi clientes, organizei documentos e elaborei relatórios, desenvolvendo habilidades essenciais como comunicação e organização."
+    }
+  ]
+}
